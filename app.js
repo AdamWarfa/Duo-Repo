@@ -2,4 +2,6 @@
 
 window.addEventListener("load", initApp);
 
-function initApp() {}
+function initApp() {
+  console.log("ojay ? ")
+}

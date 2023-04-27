@@ -13,6 +13,6 @@ function onTheBlock() {
   console.log("hej");
 }
 
-function onTheBlock(){
+function onTheBlock() {
   console.log("WASUUUUUUUP");
 }
